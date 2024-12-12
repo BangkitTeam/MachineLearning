@@ -48,7 +48,7 @@ This project focuses on the machine learning aspect of an application designed t
 
 ## Dataset
 
-The dataset includes labeled images of various waste categories [here]([https://github.com/reized](https://drive.google.com/drive/folders/1S8awIBJqLY7EAaBW3l4YeVSCcQDnTfi3?usp=sharing)).
+The dataset includes labeled images of various waste categories [here](https://drive.google.com/drive/folders/1S8awIBJqLY7EAaBW3l4YeVSCcQDnTfi3?usp=sharing).
 
 ## Project Structure
 
