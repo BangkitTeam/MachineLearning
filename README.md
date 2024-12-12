@@ -16,7 +16,7 @@ This project focuses on the machine learning aspect of an application designed t
 
 ### Prerequisites
 
-- Python 3.8+
+- Python
 - TensorFlow/Keras
 - Jupyter Notebook
 - Streamlit (optional for testing)
