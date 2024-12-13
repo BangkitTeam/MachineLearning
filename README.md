@@ -67,4 +67,7 @@ MachineLearning/
 ## Contact
 
 For any questions or suggestions, feel free to reach out to:
-- **GitHub**: [reized](https://github.com/reized)
+- **GitHub**:
+- [reized](https://github.com/reized)
+- [uchihamadara37](https://github.com/uchihamadara37)
+- [azhar fikri](https://github.com/Az140304)
